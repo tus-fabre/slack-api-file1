@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 6a - ファイルを保存する
+ *  Lesson File 1 - ファイルを保存する
  * 
  * [NOTE]
  */
