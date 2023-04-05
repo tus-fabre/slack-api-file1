@@ -9,9 +9,9 @@
   "author": "TUS",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^3.11.1",
+    "@slack/bolt": "^3.13.0",
     "date-utils": "^1.2.21",
-    "dotenv": "^16.0.1",
-    "pg": "^8.7.3"
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
   }
 }
